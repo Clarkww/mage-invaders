@@ -1,6 +1,6 @@
 let images = [
     "./img/player.png",
-    "./img/monster.png",
+    // "./img/monster.png",
     "./img/background.jpg",
     "./img/bluespell.png",
     "./img/alienRed.png",
