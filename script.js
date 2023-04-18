@@ -155,6 +155,10 @@ function startGame() {
                 gameStarted = true
             }
         })
+        // touch screen
+        document.addEventListener('touchstart', (event) => {
+            gameStarted = true
+        })
 
     }
 
